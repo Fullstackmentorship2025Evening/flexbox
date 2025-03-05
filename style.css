@@ -1,0 +1,20 @@
+.boxes{
+    border: 2px solid black;
+    padding: 10px;
+    width: 1000px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: auto;
+    margin-top: 0px;
+    /* transform: translateY(150px); */
+    /* flex-direction: row-rev  erse; */
+    /* flex-direction: column; */
+}
+
+.box{
+    border: 2px solid red;
+    width: 25px;
+    padding: 20px;
+    margin: 10px;
+}
